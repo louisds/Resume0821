@@ -7,52 +7,37 @@
         "time_duration": "Sep 2021 - June 2023",
         "details": [
             {
-                "title": "Awards",
-                "description": "Obtained the Belgian American Educational Foundation (BAEF) Complementary Master Fellowship",
+                "title": "",
+                "description": "Awards: Obtained the Belgian American Educational Foundation (BAEF) Complementary Master Fellowship",
                 "languages": ""                
             }
         ]
     },
     {
-        "company": "Microsoft",
-        "company_location": "Vancouver, Canada",
-        "role": "Software Engineer",
-        "team": "OneNote",
-        "time_duration": "Nov 2014 - May 2016",
+        "company": "Ghent University",
+        "company_location": "Ghent, Belgium",
+        "role": "MS in Civil Engineering, Dredging and Offshore Engineering - 846/1000",
+        "team": "",
+        "time_duration": "Sep 2018 - Sep 2020",
         "details": [
             {
-                "title": "Embedded Videos and Web Content",
-                "description": "Worked on adding ability on OneNote to host web content, making sure it is backwards compatible. Implemented features to make handling and editing web content on the OneNote page easier. Added support for this feature on OneNote web app.",
-                "languages": "C++ C\\#"
-            },
-            {
-                    "title": "Merged Cells for Tables",
-                    "description": "Added support for spanned cells for tables in OneNote, keeping in mind backwards compatibility. Implemented these capabilities in OneNote web app.",
-                    "languages": "C++ C\\#"
-            },
-            {
-                "title": "Realtime Ink",
-                "description": "As a ramp up project, prototyped ink collaboration using SignalR web-sockets. Worked on experimenting load and delay with multiple inputs in realtime.",
-               	"languages": "C++ C\\#"
+                "title": "",
+                "description": "First ranked student in the MS program and responsible for the valedictory speech",
+                "languages": ""                
             }
         ]
     },
     {
-        "company": "Oracle",
-        "company_location": "Bangalore, India",
-        "role": "Software Engineering Intern",
-        "team": "Apps for Enterprises",
-        "time_duration": "May 2013 - July 2013",
+        "company": "Yale University",
+        "company_location": "New Haven, CT",
+        "role": "MS in Civil Engineering - 724/1000",
+        "team": "",
+        "time_duration": "Sep 2014 - June 2018",
         "details": [
             {
-                "title": "Containerization of iOS Apps",
-                "description": "Worked on sand-boxing of enterprise applications (containerization), enabling their installation on employee's iOS devices, without worrying about security concerns. Implemented wrapping of library function calls using swizzling, objective-c backend, linker flags and dynamic library injection.",
-                "languages": "Objective-C C"
-            },
-            {
-                "title": "Sandboxed Browser App",
-                "description": "Built a demo browser application for iOS. Containerized the app using the custom script, for it to work only for whitelisted urls.",
-                "languages": "Objective-C"
+                "title": "Awards",
+                "description": "Relevant Coursework: : Discrete Mathematics, Geometry and Linear Algebra, Informatics and Programming, Mathematical Analysis, Probability and Statistics, Signal Processing",
+                "languages": ""                
             }
         ]
     }
