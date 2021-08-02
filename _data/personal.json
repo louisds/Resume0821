@@ -1,13 +1,13 @@
 [
     {
         "name": "Louis Deschuttere",
-        "website": "www.linkedin.com/in/louisdeschuttere",
+        "website": "https://www.linkedin.com/in/louisdeschuttere",
         "email": "louis.deschuttere@yale.edu",
         "email2": "louisdeschuttere@gmail.com",
         "phone": "+1-471-444-6262",
-        "linkedin":"www.linkedin.com/in/louisdeschuttere",
-        "facebook":"www.linkedin.com/in/louisdeschuttere",
-        "github":"www.linkedin.com/in/louisdeschuttere",
+        "linkedin":"https://www.linkedin.com/in/louisdeschuttere",
+        "facebook":"https://www.linkedin.com/in/louisdeschuttere",
+        "github":"https://www.linkedin.com/in/louisdeschuttere",
         "languages": [
             {
                 "language": "C++"
