@@ -46,7 +46,12 @@
         "details": [
         	{
                 "title": "",
-                "description": "Volunteer during job, sports, and social events. Responsible for the civil engineering part of the VTK website.",
+                "description": "Volunteer during job, sports, and social events",
+                "languages":""
+            },
+            {
+                "title": "",
+                "description": "Responsible for the civil engineering part of the VTK website.",
                 "languages":""
             },
         	{
