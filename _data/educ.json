@@ -28,15 +28,15 @@
         ]
     },
     {
-        "company": "Yale University",
-        "company_location": "New Haven, CT",
-        "role": "MS in Civil Engineering - 724/1000",
+        "company": "Ghent University",
+        "company_location": "Ghent, Belgium",
+        "role": "BS in Civil Engineering - 724/1000",
         "team": "",
         "time_duration": "Sep 2014 - June 2018",
         "details": [
             {
-                "title": "Awards",
-                "description": "Relevant Coursework: : Discrete Mathematics, Geometry and Linear Algebra, Informatics and Programming, Mathematical Analysis, Probability and Statistics, Signal Processing",
+                "title": "",
+                "description": "Relevant Coursework: Discrete Mathematics, Geometry and Linear Algebra, Informatics and Programming, Mathematical Analysis, Probability and Statistics, Signal Processing",
                 "languages": ""                
             }
         ]
