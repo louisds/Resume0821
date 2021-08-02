@@ -3,7 +3,6 @@
         "company": "Microsoft",
         "company_location": "Redmond, WA",
         "role": "Software Engineer",
-        "team": "OneNote",
         "time_duration": "Jun 2016 - Present",
         "details": [
         	{
@@ -32,7 +31,6 @@
         "company": "Microsoft",
         "company_location": "Vancouver, Canada",
         "role": "Software Engineer",
-        "team": "OneNote",
         "time_duration": "Nov 2014 - May 2016",
         "details": [
             {
@@ -56,7 +54,6 @@
         "company": "Oracle",
         "company_location": "Bangalore, India",
         "role": "Software Engineering Intern",
-        "team": "Apps for Enterprises",
         "time_duration": "May 2013 - July 2013",
         "details": [
             {
