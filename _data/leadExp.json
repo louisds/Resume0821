@@ -1,65 +1,65 @@
 [
     {
-        "company": "Slaagsleutels",
-        "company_location": "Leuven, Belgium",
-        "role": "Private Tutor",
+        "company": "Engineers Without Borders",
+        "company_location": "Moshi, Tanzania",
+        "role": "Voluntary Engineer",
         "team": "",
-        "time_duration": "Feb 2021 - June 2021",
+        "time_duration": "Nov 2020 - Jan 2021",
         "details": [
         	{
                 "title": "",
-                "description": "Private tutor in mathematics, statistics, and physics, both on high school and university level",
+                "description": "Supervising the construction of a polyvalent building and powering of the building with solar panels and batteries",
                 "languages":""
             },
         	{
                 "title": "",
-                "description": "Explaining complex things in a clear and simple manner",
+                "description": "International mindset and working with people from different backgrounds",
                 "languages": ""
             }
         ]
     },
     {
-        "company": "Slaagsleutels",
-        "company_location": "Leuven, Belgium",
-        "role": "Private Tutor",
+        "company": "Humasol",
+        "company_location": "Burkwoyo, Uganda",
+        "role": "Voluntary Engineer",
         "team": "",
-        "time_duration": "Feb 2021 - June 2021",
+        "time_duration": "July 2019 - Aug 2019",
         "details": [
         	{
                 "title": "",
-                "description": "Private tutor in mathematics, statistics, and physics, both on high school and university level",
+                "description": "Construction of a solar pumping installation, still providing up to a thousand inhabitants with drinkable water",
                 "languages":""
             },
         	{
                 "title": "",
-                "description": "Explaining complex things in a clear and simple manner",
+                "description": "Social engagement and adaptation to other cultures",
                 "languages": ""
             }
         ]
     },
     {
-        "company": "Slaagsleutels",
-        "company_location": "Leuven, Belgium",
-        "role": "Private Tutor",
+        "company": "VTK Engineering Students Society",
+        "company_location": "Ghent, Belgium",
+        "role": "Student Volunteer",
         "team": "",
-        "time_duration": "Feb 2021 - June 2021",
+        "time_duration": "Sep 2014 - June 2020",
         "details": [
         	{
                 "title": "",
-                "description": "Private tutor in mathematics, statistics, and physics, both on high school and university level",
+                "description": "Volunteer during job, sports, and social events. Responsible for the civil engineering part of the VTK website.",
                 "languages":""
             },
         	{
                 "title": "",
-                "description": "Explaining complex things in a clear and simple manner",
+                "description": "Communication and teamwork",
                 "languages": ""
             }
         ]
     },
         {
-        "company": "Slaagsleutels",
-        "company_location": "Leuven, Belgium",
-        "role": "Private Tutor",
+        "company": "Youth Organization Chiro Pripo",
+        "company_location": "Temse, Belgium",
+        "role": "Leader and Animator",
         "team": "",
         "time_duration": "Feb 2021 - June 2021",
         "details": [
