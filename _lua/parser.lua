@@ -26,15 +26,12 @@ function printExpItems(file)
     tex.print("{" .. value["company"] .. "}")
     tex.print("{" .. value["company_location"] .. "}")
     tex.print("{" .. value["role"] .. "}")
-    tex.print("{" .. value["team"] .. "}")
     tex.print("{" .. value["time_duration"] .. "}")
 
     tex.print("\\resumeItemListStart")
     for key, value in pairs(value["details"]) do
       tex.print("\\resumeItem")
-      tex.print("{" .. value["title"] .. "}")
       tex.print("{" .. value["description"] .. "}")
-      tex.print("{" .. value["languages"] .. "}")
     end
     tex.print("\\resumeItemListEnd")
   end
