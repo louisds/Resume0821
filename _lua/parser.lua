@@ -25,7 +25,6 @@ function printExpItems(file)
     tex.print("\\resumeExpEntry")
     tex.print("{" .. value["company"] .. "}")
     tex.print("{" .. value["company_location"] .. "}")
-    tex.print("{" .. value["role"] .. "}")
     tex.print("{" .. value["team"] .. "}")
     tex.print("{" .. value["time_duration"] .. "}")
 
