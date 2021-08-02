@@ -13,27 +13,30 @@
                 "language": "C++"
             },
             {
-                "language": "C\\#"
+                "language": "Excel"
             },
             {
-                "language": "JavaScript"
+                "language": "Latex"
             },
             {
-                "language": "Java"
+                "language": "Matlab"
             },
             {
-                "language": "C"
+                "language": "Python"
+            },
+                        {
+                "language": "R"
             }
         ],
         "technologies": [
             {
-                "technology": "NodeJs"
+                "technology": "Dutch"
             },
             {
-                "technology": "UWP"
+                "technology": "English"
             },
             {
-                "technology": "Win32"
+                "technology": "French"
             }
         ]
     }
