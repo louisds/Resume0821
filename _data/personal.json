@@ -1,13 +1,13 @@
 [
     {
-        "name": "Kumar Pallav",
+        "name": "Louis Deschuttere",
         "website": "http://kumarpallav.com",
-        "email": "me@kumarpallav.com",
-        "email2": "pforpallav@gmail.com",
-        "phone": "+1-xxx-xxx-xxxx",
-        "linkedin":"https://www.linkedin.com/in/kumar-pallav-156a1657/",
-        "facebook":"https://www.facebook.com/pforpallav",
-        "github":"https://github.com/pforpallav",
+        "email": "louis.deschuttere@yale.edu",
+        "email2": "louisdeschuttere@gmail.com",
+        "phone": "+1-471-444-6262",
+        "linkedin":"www.linkedin.com/in/louisdeschuttere",
+        "facebook":"",
+        "github":"",
         "languages": [
             {
                 "language": "C++"
