@@ -3,13 +3,11 @@
         "company": "Slaagsleutels",
         "company_location": "Leuven, Belgium",
         "role": "Private Tutor",
-        "team": "",
         "time_duration": "Feb 2021 - Jun 2021",
         "details": [
         	{
-                "title": "",
                 "description": "Worked on adding ability on OneNote to host web content, making sure it is backwards compatible. Implemented features to make handling and editing web content on the OneNote page easier. Added support for this feature on OneNote web app.",
-                "languages": ""            },
+                            },
         	{
                 "title": "",
                 "description": "Worked on adding ability on OneNote to host web content, making sure it is backwards compatible. Implemented features to make handling and editing web content on the OneNote page easier. Added support for this feature on OneNote web app.",
