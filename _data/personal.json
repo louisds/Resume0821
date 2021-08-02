@@ -30,13 +30,33 @@
         ],
         "technologies": [
             {
-                "technology": "Dutch"
+                "technology": "Dutch (Native)"
             },
             {
-                "technology": "English"
+                "technology": "English (Fluent - TOEFL IBT:110/120)"
             },
             {
-                "technology": "French"
+                "technology": "French (Intermediate)"
+            },
+            {
+                "technology": "German (Beginner)"
+            }
+        ],
+         "interests": [
+            {
+                "interesting": "Traveling (Mexico, Guatemala, Georgia, Iceland, …)"
+            },
+            {
+                "interesting": "Hiking"
+            },
+            {
+                "interesting": "Skiing"
+            },
+            {
+                "interesting": "photography"
+            },
+            {
+                "interesting": "videography"
             }
         ]
     }
