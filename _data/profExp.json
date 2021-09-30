@@ -1,38 +1,38 @@
 [
     {
-        "company": "Slaagsleutels",
-        "company_location": "Leuven, Belgium",
-        "role": "Private Tutor",
+        "company": "University Projects",
+        "company_location": "",
+        "role": "Python, R",
         "team": "",
-        "time_duration": "Feb 2021 - Jun 2021",
+        "time_duration": "",
         "details": [
         	{
                 "title": "",
-                "description": "Private tutor and in mathematics, statistics, and physics, both on high school and university level",
+                "description": "Data and image compressing, COVID-19 prediction, movie genre classifier, diffusion map algorithm on large biomedical datasets",
                 "languages":""
-            },
-        	{
-                "title": "",
-                "description": "Mentoring other people and explaining complex things in a clear and simple manner",
-                "languages": ""
             }
         ]
     },
     {
-        "company": "Upgrade Estate",
-        "company_location": "Ghent, Belgium",
-        "role": "Student Coach",
+        "company": "Master's Dissertation",
+        "company_location": "",
+        "role": "C++, Matlab",
         "team": "",
-        "time_duration": "Sep 2018 - Jun 2019",
+        "time_duration": "",
         "details": [
         	{
                 "title": "",
-                "description": "Co-manager of the student housing 'Backstage Upkot', where I was responsible for the well-being of 105 students",
+                "description": "Constructed a CFD model of a ship's propeller jet with C++, investigating the pressure and velocity field on canal bottoms",
+                "languages":""
+            },
+                    	{
+                "title": "",
+                "description": "Solved a research question which was unanswered for over 40 years, leading to a more economical canal design",
                 "languages":""
             },
         	{
                 "title": "",
-                "description": "Organizational and problem-solving skills, conflict management",
+                "description": "Data visualization and cleaning with Matlab",
                 "languages": ""
             }
         ]
