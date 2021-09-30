@@ -8,7 +8,12 @@
         "details": [
             {
                 "title": "",
-                "description": "Obtained the Belgian American Educational Foundation (BAEF) Fellowship (Top 0.01 of Belgium)",
+                "description": "Obtained the Belgian American Educational Foundation (BAEF) Fellowship (Top 0.01 percent of Belgium)",
+                "languages": ""                
+            },
+            {
+                "title": "",
+                "description": "Relevant Coursework: Machine Learning, Unsupervised Learning for Big Data, Probability and Statistics",
                 "languages": ""                
             }
         ]
@@ -36,7 +41,7 @@
         "details": [
             {
                 "title": "",
-                "description": "Relevant Coursework: Discrete Mathematics, Geometry and Linear Algebra, Informatics and Programming, Mathematical Analysis, Probability and Statistics, Signal Processing",
+                "description": "Relevant Coursework: Discrete Mathematics, Linear Algebra, Informatics and Programming, Mathematical Analysis",
                 "languages": ""                
             }
         ]
