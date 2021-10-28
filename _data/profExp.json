@@ -8,8 +8,13 @@
         "details": [
         	{
                 "title": "",
-                "description": "Data and image compressing, COVID-19 prediction, movie genre classifier, diffusion map algorithm on large biomedical datasets",
+                "description": "Data and image compressing, COVID-19 prediction, movie genre classifier, diffusion map algorithm on large biomedical datasets, US wildfire clustering and time series analysis, graph signal processing and spectral clustering",
                 "languages":""
+            },
+            {
+                "title": "",
+                "description": "Packages: Numpy, Pandas, Scikit-learn, TensorFlow, SciPy, Keras, matplotlib, Seaborn",
+                "languages": ""
             }
         ]
     },
