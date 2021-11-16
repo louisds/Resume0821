@@ -56,7 +56,7 @@ function printHeading(file)
     tex.print("\\begin{tabular*}{\\textwidth}{l@{\\extracolsep{\\fill}}r}")
 
     tex.print("\\textbf{\\href")
-    tex.print("{" .. value["website"] .. "/}")
+    tex.print("{" .. value["github"] .. "/}")
     tex.print("{\\Large " .. value["name"] .. "}}")
     tex.print(" & Email: \\href")
     tex.print("{mailto:" .. value["email"] .. "}")
