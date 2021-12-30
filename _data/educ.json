@@ -1,6 +1,4 @@
 [
-    Accept: application/json
-    Content-Type: application/json
     {
         "company": "Yale University",
         "company_location": "New Haven, CT",
@@ -10,7 +8,7 @@
         "details": [
             {
                 "title": "",
-                "description": "Obtained the Belgian American Educational Foundation (BAEF) Fellowship (Top 0.01 of Belgium)",
+                "description": "\u0025",
                 "languages": ""                
             },
             {
