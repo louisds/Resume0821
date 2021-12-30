@@ -8,7 +8,7 @@
         "details": [
             {
                 "title": "",
-                "description": "Hello, ${Hal}!",
+                "description": format("Hello, %s!", "Ander"),
                 "languages": ""                
             },
             {
