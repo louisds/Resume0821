@@ -8,7 +8,7 @@
         "details": [
             {
                 "title": "",
-                "description": JSON.stringify(%),
+                "description": "hello" + "Hello",
                 "languages": ""                
             },
             {
