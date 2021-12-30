@@ -2,13 +2,13 @@
     {
         "company": "Yale University",
         "company_location": "New Haven, CT",
-        "role": "MS in Statistics and Data Science",
+        "role": "MS in Statistics and Data Science - ",
         "team": "",
         "time_duration": "Sep 2021 - Dec 2022",
         "details": [
             {
                 "title": "",
-                "description": format("Hello, %s!", "Ander"),
+                "description": "Obtained the Belgian American Educational Foundation (BAEF) Fellowship (Top 0.01 \" of Belgium)",
                 "languages": ""                
             },
             {
