@@ -8,7 +8,7 @@
         "details": [
             {
                 "title": "",
-                "description": "Obtained the Belgian American Educational Foundation (BAEF) Fellowship (Top 0.01 &#37; of Belgium)",
+                "description": encodeURIComponent(JSON.stringify(Obtained the Belgian American Educational Foundation (BAEF) Fellowship (Top 0.01 % of Belgium)),
                 "languages": ""                
             },
             {
