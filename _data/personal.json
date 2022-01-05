@@ -26,6 +26,9 @@
             },
                         {
                 "language": "R"
+            },
+                        {
+                "language": "SQL"
             }
         ],
         "technologies": [
