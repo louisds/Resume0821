@@ -7,12 +7,12 @@
         "details": [
         	{
                 "title": "",
-                "description": "Leveraging alternative data to advise portfolio managers on investment decisions",
+                "description": "Leveraging alternative data sources (web scraping, geodata, credit card spend) to advise portfolio managers on investment decisions",
                 "languages":""
             },
         	{
                 "title": "",
-                "description": "Focused on NLP-techniques to automate stock ratings based on FMR equity analyst notes",
+                "description": "Focused on NLP-techniques to automate the rating of stocks (score from 1 to 6) based on FMR equity analyst notes",
                 "languages": ""
             }
         ]
