@@ -1,4 +1,22 @@
-[
+[    {
+        "company": "Fidelity Investments",
+        "company_location": "Boston, MA",
+        "role": "Advanced Data Science Intern",
+        "team": "",
+        "time_duration": "Jun 2022 - Aug 2022",
+        "details": [
+        	{
+                "title": "",
+                "description": "Leveraging alternative data to advise portfolio managers on investment decisions",
+                "languages":""
+            },
+        	{
+                "title": "",
+                "description": "Focused on NLP-techniques to automate stock ratings based on FMR equity analyst notes",
+                "languages": ""
+            }
+        ]
+    },
     {
         "company": "Slaagsleutels",
         "company_location": "Leuven, Belgium",
@@ -55,24 +73,4 @@
                 "languages": ""
             }
         ]
-    },
-    {
-        "company": "VTK Engineering Students Society",
-        "company_location": "Ghent, Belgium",
-        "role": "Student Volunteer",
-        "team": "",
-        "time_duration": "Sep 2014 - Jun 2020",
-        "details": [
-            {
-                "title": "",
-                "description": "Responsible for the civil engineering part of the VTK website and bartender at the student pub",
-                "languages":""
-            },
-        	{
-                "title": "",
-                "description": "Improved my communication, teamwork, and multi-tasking skills by volunteering during job, sports, and social events",
-                "languages": ""
-            }
-        ]
     }
-]
