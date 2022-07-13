@@ -8,7 +8,7 @@
         "details": [
         	{
                 "title": "",
-                "description": "Data and image compressing, COVID-19 prediction, movie genre classifier, diffusion map algorithm on large biomedical datasets, US wildfire clustering and time series analysis, graph signal processing and spectral clustering, word embeddings",
+                "description": "Music genre classifier, music generator and style transfer, diffusion map algorithm on large biomedical datasets, US wildfire clustering, CT housing price prediction based on Zillow reviews",
                 "languages":""
             },
             {
